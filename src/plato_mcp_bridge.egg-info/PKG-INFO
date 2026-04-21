@@ -1,6 +1,7 @@
 Metadata-Version: 2.4
 Name: plato-mcp-bridge
-Version: 0.1.0
-Summary: MCP bridge — Model Context Protocol integration
+Version: 0.2.0
+Summary: MCP bridge — Model Context Protocol integration for PLATO
 License: MIT
+Keywords: plato,mcp,ai,tools,bridge
 Requires-Python: >=3.8
